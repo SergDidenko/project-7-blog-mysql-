@@ -1,0 +1,33 @@
+.container{
+	padding-top:20px;
+}
+.user-name{
+	float: right;
+	color:#000000;
+	font-weight: bold;
+	font-size: 12px;
+}
+.panel-primary{
+	background:#D3D3D3;
+	border:2px solid #696969;
+}
+.panel-primary>.panel-heading{
+	background: #FFFF00;
+	border-bottom:2px solid #696969;
+	color:#000000;
+}
+.panel-warning{
+	background:#D3D3D3;
+	border:2px solid #696969;
+	width: 60%;
+}
+.panel-warning>.panel-heading{
+	padding:5px;
+	background: #333;
+	border-bottom:2px solid #696969;
+	color:#000000;
+}
+.form-horizontal{
+	margin-right:15px;
+	margin-left:15px;
+}
